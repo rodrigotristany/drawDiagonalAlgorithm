@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drawDiagonalAlgorithm", "drawDiagonalAlgorithm\drawDiagonalAlgorithm.csproj", "{FFE7B63C-C813-4F7F-91E6-E8276D5CAAC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE7B63C-C813-4F7F-91E6-E8276D5CAAC1}.Debug|x86.ActiveCfg = Debug|x86
+		{FFE7B63C-C813-4F7F-91E6-E8276D5CAAC1}.Debug|x86.Build.0 = Debug|x86
+		{FFE7B63C-C813-4F7F-91E6-E8276D5CAAC1}.Release|x86.ActiveCfg = Release|x86
+		{FFE7B63C-C813-4F7F-91E6-E8276D5CAAC1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
